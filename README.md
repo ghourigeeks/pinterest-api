@@ -1,12 +1,11 @@
-Reson : every time on relode code will change in the url that why error comes in 
+![image](https://user-images.githubusercontent.com/97091625/176036550-c73e540a-2fab-414b-a82e-0c20e2a7d708.png)
 
-________________________________________________________________________________________________________________________
+on the first request the code run sucessfully 
 
-Error :  The authorization grant is invalid
+but when i give the request on second time so error come in --- error :
 
-________________________________________________________________________________________________________________________
+![image](https://user-images.githubusercontent.com/97091625/176036775-2b758e6e-c7fc-4729-9dfe-4b5f4cc82f82.png)
 
 
-Url   : https://www.pinterest.com/oauth/?client_id=1478633&redirect_uri=https://intern.geeksroot.net/&response_type=code&scope=boards:read,pins:read,boards:write,pins:writehttps://intern.geeksroot.net/
 
-![image](https://user-images.githubusercontent.com/97091625/176036418-ab121b80-ff2d-4f5a-b7cd-c8898f472164.png)
+
