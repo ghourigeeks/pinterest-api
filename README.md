@@ -18,9 +18,13 @@ Reason : on every request from pinterest :
 ______________________________________________________________________________________________________________
 
 
-code was changed in the url thats why error comes in
+the code was changed in the url or in the code file we give static code thats i copy from the pinterest url 
+
+but then i send another request so code was changed
 
 ![image](https://user-images.githubusercontent.com/97091625/176039443-76fa8828-0627-445d-8337-36e828036f24.png)
+
+
 
 
 
