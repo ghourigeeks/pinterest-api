@@ -1,4 +1,4 @@
-Sucess :on the first request the code run sucessfully 
+Success : on the first request the code run successfully 
 
 ![image](https://user-images.githubusercontent.com/97091625/176037736-7598ae07-5ee4-4918-b8f8-fc69059234fd.png)
 
@@ -11,7 +11,19 @@ Error : but when i give the request on the second time so error come in :
 ______________________________________________________________________________________________________________
 
 
-Reason : one the first request code was same that i copy from the pinterest url but when i hit request on the second time time so code was change in the url so thats why error comes in 
+Reason : on every request from pinterest : 
+
+![image](https://user-images.githubusercontent.com/97091625/176039263-f2997bd9-0731-45ee-8ccb-6ebbffad0216.png)
+
+______________________________________________________________________________________________________________
+
+
+code was changed in the url thats why error comes in
+
+![image](https://user-images.githubusercontent.com/97091625/176039443-76fa8828-0627-445d-8337-36e828036f24.png)
+
+
+
 
 
 
