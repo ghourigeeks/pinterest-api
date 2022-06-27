@@ -11,6 +11,11 @@ Error : but when i give the request on the second time so error come in :
 ______________________________________________________________________________________________________________
 
 
+Url : https://www.pinterest.com/oauth/?client_id=1478633&redirect_uri=https://intern.geeksroot.net/&response_type=code&scope=boards:read,pins:read,boards:write,pins:writehttps://intern.geeksroot.net/
+
+________________________________________________________________________________________________________________________________________________________________
+
+
 Reason : on every request from pinterest : 
 
 ![image](https://user-images.githubusercontent.com/97091625/176039263-f2997bd9-0731-45ee-8ccb-6ebbffad0216.png)
@@ -20,7 +25,7 @@ ________________________________________________________________________________
 
 the code was changed in the url or in the code file we give static code thats i copy from the pinterest url 
 
-but then i send another request so code was changed
+but then i send another request so code was changed thats why error comes in 
 
 ![image](https://user-images.githubusercontent.com/97091625/176039443-76fa8828-0627-445d-8337-36e828036f24.png)
 
