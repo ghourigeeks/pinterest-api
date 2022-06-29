@@ -30,6 +30,10 @@ but then i send another request so code was changed thats why error comes in
 ![image](https://user-images.githubusercontent.com/97091625/176039443-76fa8828-0627-445d-8337-36e828036f24.png)
 
 
+_______________________________________________________________________________________________________________
+
+
+solution : store code in seesion so when we hit request so it dont display the error msg
 
 
 
